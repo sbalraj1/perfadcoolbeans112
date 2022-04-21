@@ -11,7 +11,6 @@ ReactDOM.render(
     <Routes>
       <Route path="/" element={<App />}>
         <Route path="purchase" element={<Purchase />} />
-        <Route path="home" element={<Home />} />
       </Route>
     </Routes>
   </Router>,
