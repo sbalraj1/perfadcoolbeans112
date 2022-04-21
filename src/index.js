@@ -4,7 +4,6 @@ import './index.css';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import App from "./App";
 import Purchase from "./components/purchase";
-import Home from "./components/home";
 
 
 ReactDOM.render(
